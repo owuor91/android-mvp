@@ -8,7 +8,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="io.github.owuor91.android_mvp.MainActivity">
+    tools:context="io.github.owuor91.android_mvp.mainscreen.MainActivity">
 
     <TextView
         android:layout_width="wrap_content"

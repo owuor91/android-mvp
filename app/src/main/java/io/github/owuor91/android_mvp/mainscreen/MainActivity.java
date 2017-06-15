@@ -1,7 +1,9 @@
-package io.github.owuor91.android_mvp;
+package io.github.owuor91.android_mvp.mainscreen;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import io.github.owuor91.android_mvp.R;
 
 public class MainActivity extends AppCompatActivity {
 
